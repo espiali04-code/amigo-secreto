@@ -31,6 +31,7 @@ Usa × para eliminar un nombre puntual o Vaciar lista para limpiar todo.
 Reglas de validación
 
 No acepta vacíos ni una sola palabra: debe ser Nombre Apellido.
+
 Solo letras (admite acentos/ñ, guion y apóstrofo dentro de la palabra).
 No permite duplicados (normaliza “ANA lópez” → “Ana López”).
 <img width="929" height="901" alt="image" src="https://github.com/user-attachments/assets/0c469581-d909-4c0c-9378-92cfcc1b98ea" />
